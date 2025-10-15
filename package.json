@@ -1,0 +1,25 @@
+{
+  "name": "meli-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monxvoll/meli-notifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monxvoll/meli-notifier/issues"
+  },
+  "homepage": "https://github.com/monxvoll/meli-notifier#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "twilio": "^5.10.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
